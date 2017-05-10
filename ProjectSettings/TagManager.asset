@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pick Up
+  - Door 1
+  - Door 2
+  - Door 3
+  - Door 4
+  - Door 5
+  - Door 6
+  - Door 7
+  - Door 8
+  - Door 9
+  - Door 10
+  - Door 11
+  - Door 12
+  - Door 13
+  - Door 14
+  - Door 15
+  - Door 16
+  - Door 17
+  - Instructions
+  - Quit
+  - How To Play
+  - Play
+  - Roll a Ball
+  - Back
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
